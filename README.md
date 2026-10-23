@@ -183,3 +183,4 @@ If you find AirCard useful, you can support future development:
 - **TON**: `UQBm9KPhtMw-XVVjirUoa09wzrlyWsbeZhKfefl1Uw-qNZ-r`
 - **USDT (TRC20)**: `TDkDMCyjYxgvkWUnQiF5Erk2RyPQMT6G1n`
 - **USDT / BNB (BEP20)**: `0x0954dc491c502849d04956ef74634aa5931a08e8`
+- 
